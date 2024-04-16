@@ -1,5 +1,8 @@
-# Kasetsart University Graphics and AI (KUGA) Laboratory
+# Ray Tracing for Entertainment Industry 01418283
+
 This github provides a raytracing course for beginners.
+
+This course is provided by Kasetsart University Graphics and AI (KUGA) Laboratory.
 
 Please checkout the Wiki page.
 
