@@ -1,4 +1,4 @@
-# Ray Tracing for Entertainment Industry 01418283
+# Ray Tracing in Entertainment Industry 01418283
 
 This github provides a raytracing course for beginners.
 
